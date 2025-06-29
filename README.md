@@ -4,7 +4,7 @@
 
 I am a Web Developer. I love learning how website work and I am excited to learn more about this field and continue contributing to the world around me through.
 
-Skills: C/ C++ / JS / HTML / CSS/Bootsrap/Java/OOP/DSA
+Skills: C/ C++ / JS / HTML / CSS/Bootstrap/Tailwind CSS/React js/ Node js/ Java/OOP/DSA
 
 - 📫 How to reach me: inayem98@gmail.com 
 
