@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name Is Nayem
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQGqxhgg5fcFrA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723364706976?e=1730332800&v=beta&t=tyCWltZ9ZfbpajvBMRoEX4A_rvyWZLb2WD6PKjGNf7A)
+
 
 I am a Web Developer. I love learning how website work and I am excited to learn more about this field and continue contributing to the world around me through.
 
