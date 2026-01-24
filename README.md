@@ -1,64 +1,79 @@
-### Hi there 👋, My Name Is Nayem  
-#### A passionate developer from Bangladesh 🇧🇩  
-
-I am a Web Developer who genuinely enjoys understanding **how websites actually work under the hood**.  
-Curious by nature, consistent by habit. I believe clean code today saves headaches tomorrow.
-
----
-
-### 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-1f2937?style=for-the-badge"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=79C0FF&center=true&vCenter=true&width=750&lines=Welcome+To+My+GitHub+Profile+!;Shafiqul+Islam+Nayem" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<h3 align="center">Web Developer </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shafikulnayeem10&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
-### 🌐 Connect with Me
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science & Engineering Student  
+- 💻 Passionate about **Web Development**  
+- 🌱 Currently exploring **MERN Stack Web Development**  
+- 📍 Bangladesh  
+- 📫 Email: **inayem98@gmail.com**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/shafikulnayeem10">
-    <img src="https://img.shields.io/badge/GitHub-Profile?style=for-the-badge&logo=github&logoColor=000000&color=ffffff"/>
+  <a href="https://www.linkedin.com/in/thenameisnayeem/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://www.linkedin.com/in/thenameisnayeem/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=ffffff"/>
+  <a href="https://www.facebook.com/thenameisnayeem" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
   </a>
 
-  <a href="https://www.facebook.com/thenameisnayeem">
-    <img src="https://img.shields.io/badge/Facebook-Profile?style=for-the-badge&logo=facebook&logoColor=1877F2&color=ffffff"/>
+  <a href="https://twitter.com/NameIsNayeem" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 
-  <a href="https://www.instagram.com/thenameisnayeem/">
-    <img src="https://img.shields.io/badge/Instagram-Profile?style=for-the-badge&logo=instagram&logoColor=E4405F&color=ffffff"/>
+  <a href="https://www.instagram.com/thenameisnayeem/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-  <a href="https://twitter.com/NameIsNayeem">
-    <img src="https://img.shields.io/badge/X-Profile?style=for-the-badge&logo=x&logoColor=000000&color=ffffff"/>
-  </a>
+ 
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,tailwind,javascript,react,nodejs,git,github,mysql,mongodb,expressjs,csharp" />
 </p>
 
 
 ---
 
-### 📫 Contact  
-📧 **Email:** inayem98@gmail.com  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shafikulnayem10&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafikulnayem10&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafikulnayem10&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
+
+
+
+> Feel free to explore my repositories, open issues, or collaborate with me 🚀
