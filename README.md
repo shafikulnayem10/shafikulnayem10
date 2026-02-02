@@ -23,10 +23,11 @@
 - 📫 Email: **inayem98@gmail.com**
 
 ---
+<p align="center" font="blod">
+🌐 Connect With Me
+</p>
 
-## 🌐 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/thenameisnayeem/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
