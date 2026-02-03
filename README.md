@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=79C0FF&center=true&vCenter=true&width=750&lines=Welcome+To+My+GitHub+Profile+!;Shafiqul+Islam+Nayem" />
 </p>
 
-<h3 align="center">Web Developer </h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shafikulnayeem10&label=Profile%20views&color=0e75b6&style=flat" />
@@ -14,52 +14,48 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 🎓 Computer Science & Engineering Student  
-- 💻 Passionate about **Web Development**  
-- 🌱 Currently exploring **MERN Stack Web Development**  
-- 📍 Bangladesh  
-- 📫 Email: **inayem98@gmail.com**
+<div align="center">
+
+🎓 Computer Science & Engineering Student  
+💻 Passionate about **Web Development**  
+🌱 Currently exploring **MERN Stack Web Development**  
+📍 Bangladesh  
+📫 Email: **inayem98@gmail.com**
+
+</div>
 
 ---
-<p align="center" font="blod">
-🌐 Connect With Me
-</p>
+
+<h3 align="center"><b>🌐 Connect With Me</b></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thenameisnayeem/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
   <a href="https://www.facebook.com/thenameisnayeem" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
   </a>
-
   <a href="https://twitter.com/NameIsNayeem" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-
   <a href="https://www.instagram.com/thenameisnayeem/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-
- 
 </p>
 
 ---
 
-## 🛠 Languages & Tools
+<h2 align="center">🛠 Languages & Tools</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,tailwind,javascript,react,nodejs,git,github,mysql,mongodb,expressjs,csharp" />
 </p>
 
-
 ---
 
+<p align="center">
+  🚀 Feel free to explore my repositories, open issues, or collaborate with me
+</p>
 
-
-
-
-> Feel free to explore my repositories, open issues, or collaborate with me 🚀
