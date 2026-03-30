@@ -81,9 +81,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shafikulnayem10&theme=tokyonight" />
+</p>
 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafikulnayem10&theme=dark&hide_border=false&layout=compact" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafikulnayem10&theme=tokyonight" />
 </p>
 
 ---
