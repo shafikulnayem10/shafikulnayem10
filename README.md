@@ -90,6 +90,25 @@
 
 ---
 
+
+<h2 align="center">🤝 Contributed Projects</h2>
+
+<div align="center">
+
+🔹 <b>Project Name:</b> 
+<a href="https://github.com/ishranahar/SkyFlyer-OpenGL" target="_blank">
+SkyFlyer OpenGL
+</a>  
+
+🧑‍💼 <b>Role:</b> Team Lead  
+
+⚙️ <b>Contribution:</b>  
+Drone design, background logic, score & collision system  
+
+</div>
+
+---
+
 <h3 align="center">✍️  Dev Quote</h3>
 
 <p align="center">
