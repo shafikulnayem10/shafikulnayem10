@@ -34,15 +34,12 @@
   <a href="https://linkedin.com/in/shafiqulislamnayem" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://facebook.com/thenameisnayeem" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
-  </a>
-  <a href="https://x.com/NameIsNayeem" target="_blank">
+  
+
+  <a href="https://x.com/NameIsNayem" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://instagram.com/thenameisnayeem" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+ 
 </p>
 
 ---
