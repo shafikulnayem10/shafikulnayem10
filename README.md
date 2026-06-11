@@ -84,6 +84,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafikulnayem10&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafikulnayem10&theme=tokyonight" />
+</p>
 
 ---
 
